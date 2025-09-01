@@ -28,12 +28,15 @@
 - Balanced revenue split across categories: Classic (29%), Supreme (26%), Veggie (25%), Chicken (24%).
 - Opportunity to leverage cross-selling/combos with lower-performing categories.
 
-## Visualization Techniques:
+## Visualization Techniques :
 #### SQL Queries (aggregations, grouping, trend analysis) provided structured insights (KPIs, trends, category/size splits).
 #### Excel Dashboard with:
 - Bar/Line Charts → Daily & hourly order trends for staffing & marketing alignment.
 - Pie Charts → Sales distribution by category & size for product strategy.
 - Ranking Charts → Best/Worst sellers to refine promotions & inventory planning.
+
+## Dashboard Interaction :
+- <a href="https://1drv.ms/x/c/56ff1d5c19ff7cf2/EZ3SV_LQMRVEkUlDKDozKuoBoUzVIoiyefqaK7iHjyl4ag?e=NCjSMj">Dataset</a>
 
 
 
