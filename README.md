@@ -35,8 +35,8 @@
 - Pie Charts → Sales distribution by category & size for product strategy.
 - Ranking Charts → Best/Worst sellers to refine promotions & inventory planning.
 
-## Dashboard Interaction :
-- <a href="https://1drv.ms/x/c/56ff1d5c19ff7cf2/EWvOQUWo__NKicdDY_BU18cBQvvR62RnwMycTFXLr3Cf2g?e=1Ycqm4">View-my-Dashboard</a>
+## Dashboard
+- < a href="https://1drv.ms/x/c/56ff1d5c19ff7cf2/EdXE-rOHPoNKrlNHED0qQ-QBUfBtoB4EGosXsDnH1KDO2g?e=bp1M0L">View-my-Dashboard</a>
 
 ## Conclusion :
 - Delivered a clear, interactive, and business-focused view of sales performance, enabling managers to make data-backed pricing, marketing, and inventory decisions.
